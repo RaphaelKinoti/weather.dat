@@ -1,4 +1,4 @@
-# Raphael Kinoti Mburugu
+# Raphael Kinoti
 # kinoti.raphs@gmail.com
 # 254 728 668 206
 # This is a program to find the row with the maximum spread in the weather.dat file and  print the day of the month and spread to standard output.
